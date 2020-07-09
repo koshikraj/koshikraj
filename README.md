@@ -1,4 +1,4 @@
-### Hell World 👋
+### Hello World 👋
 
 
 - 🔭 I’m currently building some cool stuffs at [consensolabs](https://github.com/consensolabs)
