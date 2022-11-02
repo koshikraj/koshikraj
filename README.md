@@ -1,6 +1,7 @@
 ### Hello World 👋
 
+**_👨‍🏭 Building something beautiful one line of code at a time ✨_**
 
-- 🔭 I’m currently building some cool stuffs at [consensolabs](https://github.com/consensolabs)
-- 💬 Ask me about **decentralization**
-- 📫 Reach me: [Twiiter](https://twitter.com/rajkoshik) || [linkedIn](https://www.linkedin.com/in/koshikraj)
+- 🔭 Jazzing at [Safient](https://github.com/safient)
+- 💬 Let's talk **Life || Crypto || Coffee**
+- 📫 Reach me: [Twiiter](https://twitter.com/rajkoshik) || [linkedIn](https://www.linkedin.com/in/koshikraj) || [Call](https://calendly.com/koshik)
